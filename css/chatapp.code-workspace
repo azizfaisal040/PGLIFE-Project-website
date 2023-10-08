@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../chatapp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "chatapp"
+	}
+}
